@@ -20,7 +20,7 @@ To run this project, you need to install the following libraries:
 5. **PyAudio**: for capturing audio input.
 6. **pyttsx3**: for text-to-speech.
 7. **Webbrowser**: for opening URLs in the web browser (part of Python's standard library).
-8. **json**: for processing JSON data (part of Python's standard library).
+8. **json**: for processing JSON data from Vosk Library (part of Python's standard library).
 
 Use the following commands to install the required libraries:
 
