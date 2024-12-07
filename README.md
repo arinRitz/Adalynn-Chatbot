@@ -20,6 +20,8 @@ To run this project, you need to install the following libraries:
 6. **pyttsx3**: for text-to-speech.
 7. **Webbrowser**: for opening URLs in the web browser (part of Python's standard library).
 8. **json**: for processing JSON data from Vosk Library (part of Python's standard library).
+<br>
+Note: This is not the full version of Adalynn
 
 Use the following commands to install the required libraries:
 
@@ -29,5 +31,4 @@ pip install matplotlib
 pip install vosk
 pip install pyaudio
 pip install pyttsx3
-<br>
-Note: This is not the full version of Adalynn
+
