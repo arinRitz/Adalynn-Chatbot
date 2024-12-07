@@ -1,6 +1,6 @@
 # Adalynn Chatbot
 
-This project is a simple voice assistant using Python. It leverages speech recognition, text-to-speech, and graphical animation.
+This project is a simple voice assistant using Python. It leverages speech recognition, text-to-speech, and graphical animation.<br>
 Note: This is not the full version of Adalynn
 ## Features
 
