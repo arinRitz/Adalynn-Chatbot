@@ -1,7 +1,6 @@
 # Adalynn Chatbot
 
-This project is a simple voice assistant using Python. It leverages speech recognition, text-to-speech, and graphical animation.<br>
-Note: This is not the full version of Adalynn
+This project is a simple voice assistant using Python. It leverages speech recognition, text-to-speech, and graphical animation.
 ## Features
 
 - Voice recognition using Vosk
@@ -30,3 +29,5 @@ pip install matplotlib
 pip install vosk
 pip install pyaudio
 pip install pyttsx3
+<br>
+Note: This is not the full version of Adalynn
